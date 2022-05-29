@@ -119,6 +119,7 @@ operationButtons.forEach(button => {
     button.addEventListener('click', () => {
         calculator.chooseOperation(button.innerText);
         calculator.updateDisplay();
+        calculator.compute();
     })
 })
 
