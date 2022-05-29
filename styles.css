@@ -110,12 +110,12 @@ header input {
 #one {
     opacity: 1;
 }
-#two {
+/* #two {
     opacity: 1;
 }
 #three {
     opacity: 1;
-}
+} */
 
 header input:hover {
     cursor: pointer;
