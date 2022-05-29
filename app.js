@@ -125,7 +125,8 @@ operationButtons.forEach(button => {
 equalsButton.addEventListener('click', () => {
     calculator.compute();
     calculator.updateDisplay();
-    calculator.clear();
+//     calculator.clear();
+    calculator.chooseOperation(button.innerText);
 })
 
 
