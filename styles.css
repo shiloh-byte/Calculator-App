@@ -11,6 +11,7 @@
     --grey-orange: hsl(28, 16%, 65%);
     --grey-blue: hsl(221, 14%, 31%);
     --white: hsl(0, 0, 100%);
+    
     /* theme two colors */
     --light-grey: hsl(0, 0%, 90%);
     --grey-red: hsl(0, 5%, 81%);
@@ -22,6 +23,7 @@
     --grey-yellow: hsl(45, 7%, 89%);
     --dark-grey-orange: hsl(35, 11%, 61%);
     --dark-grey-yellow: hsl(60, 10%, 19%);
+    
     /* theme three colors*/
     --very-dark-violet: hsl(268, 75%, 9%);
     --dark-violet: hsl(268, 71%, 12%);
@@ -94,7 +96,7 @@
     align-items: center;
     letter-spacing: 6px;
     font-size: 12px;
-    padding-left: 3px;
+    padding-left: 6px;
 }
 
 /* switch */
